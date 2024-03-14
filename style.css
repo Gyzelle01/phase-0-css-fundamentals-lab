@@ -1,5 +1,25 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+header{
+  color: red;
+}
+
+#featured-property{
+  align-items: center;
+  width:800px;
+
+}
+navbar{
+  text-align: center;
+ padding-left:10px;
+ padding-right:10px;
+  background-color: aqua;
+}
+figcaption{
+  font-size: 10px;
+  text-align: center;
+}
+div{
+  float: left;
+  background-color:aquamarine;text-align: center;
+  border-bottom-width:20%;
+
 }
